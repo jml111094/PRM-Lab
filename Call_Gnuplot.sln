@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Call_Gnuplot", "Call_Gnuplot\Call_Gnuplot.vcxproj", "{43A16026-CC2C-4251-8D90-742BB24F2C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A16026-CC2C-4251-8D90-742BB24F2C2C}.Debug|x64.ActiveCfg = Debug|x64
+		{43A16026-CC2C-4251-8D90-742BB24F2C2C}.Debug|x64.Build.0 = Debug|x64
+		{43A16026-CC2C-4251-8D90-742BB24F2C2C}.Debug|x86.ActiveCfg = Debug|Win32
+		{43A16026-CC2C-4251-8D90-742BB24F2C2C}.Debug|x86.Build.0 = Debug|Win32
+		{43A16026-CC2C-4251-8D90-742BB24F2C2C}.Release|x64.ActiveCfg = Release|x64
+		{43A16026-CC2C-4251-8D90-742BB24F2C2C}.Release|x64.Build.0 = Release|x64
+		{43A16026-CC2C-4251-8D90-742BB24F2C2C}.Release|x86.ActiveCfg = Release|Win32
+		{43A16026-CC2C-4251-8D90-742BB24F2C2C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCBB6C55-CB7B-4DE7-92C2-0BA60533726E}
+	EndGlobalSection
+EndGlobal
